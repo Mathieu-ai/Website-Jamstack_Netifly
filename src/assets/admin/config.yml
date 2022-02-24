@@ -1,0 +1,6 @@
+backend:
+name: github
+repo: https://github.com/Mathieu-ai/Website-Jamstack_Netifly # Path to your GitHub repository
+branch: main
+publish_mode: editorial_workflow
+media_folder: '../images'

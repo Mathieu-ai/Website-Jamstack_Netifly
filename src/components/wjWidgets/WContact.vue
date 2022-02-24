@@ -14,15 +14,20 @@
                 </div>
             </v-col>
         </div>
+        <form />
     </div>
 </template>
 
 <script>
+import form from '../wjComponents/wjForm.html';
 import json from '../../assets/data/message.json';
 
 export default {
     data() {
         return {
+            components: {
+                form,
+            },
             data: json,
         };
     },

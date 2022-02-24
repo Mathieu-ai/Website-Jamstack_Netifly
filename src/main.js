@@ -1,6 +1,9 @@
 import Vue from 'vue';
 import App from './App.vue';
 import vuetify from './plugins/vuetify';
+import CMS from 'netlify-cms-app';
+// Initialize the CMS object
+
 /* import the fontawesome core */
 import { library } from '@fortawesome/fontawesome-svg-core';
 
@@ -13,6 +16,9 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 /* add icons to the library */
 library.add(faUserSecret);
 
+CMS.init();
+// Now the registry is available via the CMS object.
+CMS.registerPreviewTemplate('my-template', MyTemplate);
 /* add font awesome icon component */
 Vue.component('font-awesome-icon', FontAwesomeIcon);
 
