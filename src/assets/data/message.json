@@ -1,0 +1,53 @@
+{
+    "eng": {
+        "Copyright": "© all Rights Reserved theme by Hexan",
+        "Header": {
+            "title": "Make business with us & become beautiful",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "Button": {
+                "content": "GET STARTED"
+            }
+        },
+        "Services": {
+            "title": "Services",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum",
+            "Card": [
+                {
+                    "name": "Market Research",
+                    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+                },
+                {
+                    "name": "Latest Technology",
+                    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+                },
+                {
+                    "name": "Data Processing",
+                    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+                },
+                {
+                    "name": "Customer Support",
+                    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+                }
+            ]
+        },
+        "Slogan": [
+            {
+                "title": "Best Digital Marketing Solution",
+                "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum Lorem ipsum dolor sit amet, hendrerit mel, es vidit eu lorem animal iracundia. Ius te altera essent incorrupte.",
+                "content": [
+                    "Icon Hendrerit omittantur mel,es vidit eu lorem animal.",
+                    "Icon The best marketing company to boost your web",
+                    "Icon The Secrets to Successful About Hexan"
+                ]
+            }
+        ],
+        "Contact": {
+            "title": "Contact",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum",
+            "placeholder": "Mail",
+            "Button": {
+                "content": "SUBMIT"
+            }
+        }
+    }
+}

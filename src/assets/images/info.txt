@@ -1,0 +1,113 @@
+ceci est une petite explication concernant le projet !! 
+Et oui on est en mode oldSchool ici 🤫
+
+
+N'oubliez pas de push sur la branch main !!!
+
+Ps à rajouter votre projet : 
+https://docs.google.com/spreadsheets/d/1sUAedEuSNsG6zkw1TDxzpzJXubDft06j/edit?usp=sharing&ouid=110633862648619919808&rtpof=true&sd=true
+
+
+
+But
+----------- 
+L'objectif est de créer le site web en React ( Next.JS pour ceux qui sont vraiment à l'aise )
+ 
+- De le Deployer sur Netlify 
+- Ajouter l'intégration du Form avec Netlify également
+- Ajouter le CMS Netlify ( laisser invitation ouverte à tous )
+
+
+
+Autre
+----------- 
+Vous n'êtes pas obligé de suivre le design à la perfection.
+Aussi pour les icons je vous invite à installer la lib de votre choix. Et choisir le visuel qui vous plait 🤗
+
+
+
+FONT-FAMILY 
+----------- 
+Pour tout les éléments la police est la suivante : 
+font-family: 'Rubik', sans-serif;
+
+
+COLORS 
+----------- 
+Couleur primaire :  #fb4275 ( bouton, séparateur, input, texte footer  )
+Séparateur Menu & footer : #535559
+Title : #3f3f3f;
+Paragraphe: #3f3f3f;
+Paragraphe Gris : #999;
+Background Best Digital Image: #fff7f9 
+
+
+SIZE 
+----------- 
+Title: 53px;
+Paragraph : 15px;
+SubTitle: 40px
+
+
+HELP
+----------- 
+
+.headerTitle { 
+    color: #3f3f3f;
+    font-size: 53px;
+    line-height: 60px;
+    letter-spacing: 0px;
+}
+
+Pour faire le coté bold ( pour les titres) utiliser cette propriété 
+font-weight: 700; & n'oubliez pas de changer la couleur du texte en #3f3f3f;
+
+
+
+
+TEXT 
+----------- 
+
+Make business with us & become beautiful
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+GET STARTED 
+
+
+
+Services
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum
+
+Market Research
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+
+Latest Technology
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+
+Data Processing
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+
+Customer Support
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+
+
+
+Best Digital Marketing Solution
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum Lorem ipsum dolor sit amet, hendrerit mel, es vidit eu lorem animal iracundia. Ius te altera essent incorrupte.
+
+- Icon Hendrerit omittantur mel,es vidit eu lorem animal.
+- Icon The best marketing company to boost your web
+- Icon The Secrets to Successful About Hexan
+
+
+
+Contact
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum
+Mail
+SUBMIT
+
+
+© all Rights Reserved by Hexan
